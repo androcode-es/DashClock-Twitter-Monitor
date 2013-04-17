@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DashClock Twitter Monitor</string>
+    <string name="action_about">Acerca de</string>
+    <string name="extension_title">Twitter Monitor</string>
+    <string name="extension_description">Informa de nuevos resultados en una búsqueda de Twitter predefinida. Desarrollada como ejemplo para Androcode.es</string>
+    <string name="extension_settings_title">Configuración de Twitter Monitor</string>
+    <string name="extension_settings_query">Introduce aquí el texto de búsqueda que quieres monitorizar. La información se actualizará automáticamente.</string>
+    <string name="extension_settings_hint">Texto de búsqueda</string>
+    <plurals name="extension_content_title">
+        <item quantity="one">Un nuevo resultado</item>
+        <item quantity="other">%s nuevos resultados</item>
+    </plurals>
+    <string name="extension_content_body">Coincidencias con la búsqueda de \"%s\"</string>
+</resources>
